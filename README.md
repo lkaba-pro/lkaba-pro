@@ -8,6 +8,7 @@
 1. [Data Science](#data-science)
 2. [Machine Learning](#machine-learning)
 3. [Natural Language Processing](#natural-language-processing)
+3. [Generative AI](#gen-ai)
 ---
 <a name="data-science"></a>
 ## 📉 Data Science :
@@ -33,6 +34,25 @@
 | --- | --- |
 | Webtoon Comments — What are the Readers sentiments through chapters? | [:link:](https://github.com/lkaba-pro/sentiment-analysis-on-webtoon-comments) - in progress|
 | Image Search Engine | Coming soon |
+
+---
+
+<a name="gen-ai"></a>
+## 🧠 Generative AI  
+|  Title  | Repo |
+|---|---|
+| GPT-based Chatbot for Customer Support      | Coming soon                                                                                |
+| Text-to-Image Generation using Stable Diffusion | Coming soon  
+
+---
+
+## 🌐 Connect with Me  
+- **GitHub:** [lkaba-pro](https://github.com/lkaba-pro)  
+- **LinkedIn:** [Laurène Kaba](https://www.linkedin.com/in/Laur%C3%A8ne%20Kaba)
+
+---
+
+_"The creativity, it's the intelligence having fun." – Albert Einstein_
 
 <!--
 **lkaba-pro/lkaba-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
