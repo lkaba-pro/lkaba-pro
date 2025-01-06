@@ -1,4 +1,7 @@
 ## Hi there, I'm Laurène 👋🏾
+
+**⚠️ This portfolio is currently under construction and reorganization. Please check back for updates!**  
+
 - This portfolio showcases my key projects that blend my technical expertise in AI, Data Science. Through these projects, I aim to demonstrate my versatility and ability to apply innovative solutions in both the tech and creative worlds.
 
 ---
