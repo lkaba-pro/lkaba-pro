@@ -1,6 +1,7 @@
 ## Hi there, I'm Laurène 👋🏾
-![image](https://github.com/user-attachments/assets/d0e1d5c9-7844-44f3-8abb-edf1ebcc779b)
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif" alt="GIF" width="300" height="200">
+</div>
 
 **⚠️ This portfolio is currently under construction and reorganization. Please check back for updates!**  
 
