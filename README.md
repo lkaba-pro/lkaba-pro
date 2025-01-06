@@ -48,7 +48,7 @@
 
 ## 🌐 Connect with Me  
 - **GitHub:** [lkaba-pro](https://github.com/lkaba-pro)  
-- **LinkedIn:** [Laurène Kaba](https://www.linkedin.com/in/Laur%C3%A8ne%20Kaba)
+- **LinkedIn:** [Laurène Kaba]([https://www.linkedin.com/in/Laur%C3%A8ne%20Kaba](https://www.linkedin.com/in/laur%C3%A8ne-kaba/))
 
 ---
 
