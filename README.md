@@ -33,6 +33,7 @@
 | --- | --- |
 | Bank Fraud Detection | Coming soon|
 | Real Estate Prices Prediction | Coming soon|
+| Marketing Mix Model | Coming soon|
 
 ---
 
