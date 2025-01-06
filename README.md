@@ -1,4 +1,6 @@
 ## Hi there, I'm Laurène 👋🏾
+![image](https://github.com/user-attachments/assets/d0e1d5c9-7844-44f3-8abb-edf1ebcc779b)
+
 
 **⚠️ This portfolio is currently under construction and reorganization. Please check back for updates!**  
 
