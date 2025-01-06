@@ -1,6 +1,6 @@
 ## Hi there, I'm Laurène 👋🏾
 <div align="center">
-  <img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif" alt="GIF" width="300" height="200">
+  <img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif" alt="GIF" width="200" height="150">
 </div>
 
 **⚠️ This portfolio is currently under construction and reorganization. Please check back for updates!**  
