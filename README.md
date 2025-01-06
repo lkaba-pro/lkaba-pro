@@ -16,6 +16,8 @@
 | --- | --- |
 | Exploratory Data Analysis - The Superstore | [:link:](https://github.com/lkaba-pro/exploratory-data-analysis-the-superstore) |
 | Data Analysis for Marketing Strategy | Coming Soon |
+| Customer Segmentation Analysis                 | Coming soon  |
+| Predictive Maintenance in Manufacturing        | Coming soon  |
 
 
 ---
