@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Portfolio Contents (in progress)
+## 📂 Portfolio Contents
 
 1. [Data Science](#data-science)
 2. [Machine Learning](#machine-learning)
