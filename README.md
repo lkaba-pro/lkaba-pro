@@ -41,7 +41,7 @@
 ## 📑Natural Language Processing :
 | Title  | Repo |
 | --- | --- |
-| Webtoon Comments — What are the Readers sentiments through chapters? | [:link:](https://github.com/lkaba-pro/sentiment-analysis-on-webtoon-comments) - in progress|
+| Webtoon Comments — What are the Readers sentiments through chapters? Insights from BERT & VADER. | [:link:](https://github.com/lkaba-pro/sentiment-analysis-on-webtoon-comments) |
 | Image Search Engine | Coming soon |
 
 ---
