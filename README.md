@@ -3,8 +3,6 @@
   <img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif" alt="GIF" width="200" height="150">
 </div>
 
-**⚠️ This portfolio is currently under construction and reorganization. Please check back for updates!**  
-
 - This portfolio showcases my key projects that blend my technical expertise in AI, Data Science. Through these projects, I aim to demonstrate my versatility and ability to apply innovative solutions in both the tech and creative worlds.
 
 ---
