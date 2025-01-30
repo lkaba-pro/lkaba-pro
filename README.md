@@ -4,6 +4,7 @@
 </div>
 
 - This portfolio showcases my key projects that blend my technical expertise in AI, Data Science. Through these projects, I aim to demonstrate my versatility and ability to apply innovative solutions in both the tech and creative worlds.
+- My favorite projects are the ones with this emoji: 🌸
 
 ---
 
@@ -39,7 +40,7 @@
 ## 📑Natural Language Processing :
 | Title  | Repo |
 | --- | --- |
-| Webtoon Comments — What are the Readers sentiments through chapters? Insights from BERT & VADER. | [:link:](https://github.com/lkaba-pro/sentiment-analysis-on-webtoon-comments) |
+| Webtoon Comments — What are the Readers sentiments through chapters? Insights from BERT & VADER. 🌸 | [:link:](https://github.com/lkaba-pro/sentiment-analysis-on-webtoon-comments) |
 | Image Search Engine | Coming soon |
 
 ---
