@@ -30,6 +30,7 @@
 ## 🤖 Machine Learning :
 | Title  | Repo |
 | --- | --- |
+| K-mean clustering and DBSCAN on 2022 FIFA players| Coming soon|
 | Bank Fraud Detection | Coming soon|
 | Real Estate Prices Prediction | Coming soon|
 | Marketing Mix Model | Coming soon|
