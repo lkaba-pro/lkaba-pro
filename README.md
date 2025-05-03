@@ -30,7 +30,7 @@
 ## 🤖 Machine Learning :
 | Title  | Repo |
 | --- | --- |
-| K-mean clustering and DBSCAN on 2022 FIFA players| Coming soon|
+| K-mean clustering and DBSCAN on 2022 FIFA players| [:link:](https://github.com/lkaba-pro/unsupervised-learning-clustering/tree/main/FIFA%20Players%202022)|
 | Bank Fraud Detection | Coming soon|
 | Real Estate Prices Prediction | Coming soon|
 | Marketing Mix Model | Coming soon|
